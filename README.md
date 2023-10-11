@@ -1,11 +1,8 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
 # UFO
 
-_website design project_
+_project unknown_
 
 <br>
 
@@ -46,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/46-grupe-ufo.git
+    git clone https://github.com/UnitR330/46-grupe-html-UFO
     ```
 2. Install NPM packages
     ```sh
@@ -67,7 +64,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Viktor: [Github](https://github.com/UnitR330)
 
 ## ⚠️ License
 
