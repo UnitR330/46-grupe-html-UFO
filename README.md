@@ -10,7 +10,7 @@ _project unknown_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/46-grupe-ufo/
+Site published at: https://unitr330.github.io/46-grupe-html-UFO/
 
 Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
