@@ -1,0 +1,5 @@
+npm init -y -> package.json
+
+npm i -D dead-server -> package.json + dependance dead server
+
+npm i
